@@ -38,7 +38,7 @@
   },
   "dependencies": {
     "cdkactions": "0.2.3",
-    "constructs": "3.3.75",
+    "constructs": "3.3.102",
     "ts-dedent": "2.1.1"
   },
   "devDependencies": {
